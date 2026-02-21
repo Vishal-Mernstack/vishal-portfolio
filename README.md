@@ -7,7 +7,7 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-FF0055?style=flat-square&logo=framer&logoColor=white)](https://www.framer.com/motion)
-[![License](https://img.shields.io/badge/License-MIT-f5a623?style=flat-square)](LICENSE)
+
 
 **A premium, production-ready personal portfolio with a dark cyberpunk-editorial design.**  
 Electric amber accents · Glassmorphism cards · Smooth animations · Fully responsive
